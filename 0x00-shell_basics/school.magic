@@ -1,2 +1,2 @@
 #!/bin/bash
-magic string SCHOOL offset 0
+file school string SCHOOL offset 0
